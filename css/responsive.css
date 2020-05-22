@@ -1,0 +1,300 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media(max-width:575.98px){
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link::after {
+        width: 13%;
+    }
+    
+    .navbar-nav {
+        background: #373737;
+    }
+    .navbar-light .navbar-toggler {
+        background: white;
+    }
+    
+    .navbar-light .navbar-toggler-icon {
+        background: url(../img/scroll.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .banner_text {
+        padding-top: 130px;
+        padding-bottom: 100px;
+    }
+    
+    .slick-dots {
+        bottom: 45px;
+    }
+    .banner_text p {
+        padding: 40px 0px 35px 0px;
+    }
+    
+    .about_text h2 {
+        text-align: center;
+        margin-top: 30px;
+    }
+    .about_text a {
+        width: 100%;
+        text-align: center;
+    }
+    #video_part {
+        padding: 70px 0px;
+    }
+    .service_text {
+        padding-top: 30px;
+    }
+    .service_text p {
+        padding: 0px;
+    }
+    .team_text_top p {
+        padding-bottom: 35px;
+    }
+    .project-top-left {
+        padding-bottom: 30px;
+    }
+    #project {
+        padding: 45px 0px;
+    }
+    .team_arrow_left {
+        top: 78%;
+        left: 1%;
+    }
+    .team_arrow_right {
+        top:78%;
+        right: 2%;
+
+    }
+    .team_slider_text p {
+        padding: 0px;
+    }
+    .contact-btn {
+        margin-bottom: 35px;
+    }
+    .contact-left h3,
+    .contact-right h3 {
+        text-align: center;
+    }
+    #contact {
+        padding: 30px 0px;
+    }
+    .client_img_center{
+        text-align: center;
+    }
+    .footer_bottom_right p {
+        text-align: center;
+    }
+    .footer_bottom_left ul li {
+        float: none;
+        display: inline-block;
+    }
+    .footer_bottom_left{
+        text-align: center
+    }
+    .project-top-left h3 {
+        text-align: center;
+    }
+    .project-top-right{
+        text-align: center !important;
+    }
+    .project-top-left {
+        padding-bottom: 5px;
+    }
+    .project-img{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .project-bottom {
+        padding-top: 30px;
+    }
+}
+
+
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media(min-width:576px) and (max-width:767.98px){
+    
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link::after {
+        width: 13%;
+    }
+    
+    .navbar-nav {
+        background: #373737;
+    }
+    .navbar-light .navbar-toggler {
+        background: white;
+    }
+    
+    .navbar-light .navbar-toggler-icon {
+        background: url(../img/scroll.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .banner_text {
+        padding-top: 130px;
+        padding-bottom: 100px;
+    }
+    
+    .slick-dots {
+        bottom: 45px;
+    }
+    .banner_text p {
+        padding: 40px 0px 35px 0px;
+    }
+    
+    .about_text h2 {
+        text-align: center;
+        margin-top: 30px;
+    }
+    .about_text a {
+        width: 100%;
+        text-align: center;
+    }
+    #video_part {
+        padding: 70px 0px;
+    }
+    .service_text {
+        padding-top: 30px;
+    }
+    .service_text p {
+        padding: 0px;
+    }
+    .team_text_top p {
+        padding-bottom: 35px;
+    }
+    .project-top-left {
+        padding-bottom: 30px;
+    }
+    #project {
+        padding: 45px 0px;
+    }
+    .team_arrow_left {
+        top: 78%;
+        left: 4%;
+    }
+    .team_arrow_right {
+        top:78%;
+        right: 14%;
+
+    }
+    .team_slider_text p {
+        padding: 0px;
+    }
+    .contact-btn {
+        margin-bottom: 35px;
+    }
+    .contact-left h3,
+    .contact-right h3 {
+        text-align: center;
+    }
+    #contact {
+        padding: 30px 0px;
+    }
+    .client_img_center{
+        text-align: center;
+    }
+    .footer_bottom_right p {
+        text-align: center;
+    }
+    .footer_bottom_left ul li {
+        float: none;
+        display: inline-block;
+    }
+    .footer_bottom_left{
+        text-align: center
+    }
+}
+
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media(min-width:768px) and (max-width:991.98px){
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link::after {
+        width: 13%;
+    }
+    
+    .navbar-nav {
+        background: #373737;
+    }
+    .navbar-light .navbar-toggler {
+        background: white;
+    }
+    
+    .navbar-light .navbar-toggler-icon {
+        background: url(../img/scroll.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    .banner_text {
+        padding-top: 150px;
+        padding-bottom: 170px;
+    }
+    .about_text h2 {
+        text-align: center;
+        margin-top: 30px;
+    }
+    .about_text a {
+        width: 100%;
+        text-align: center;
+    }
+    #video_part {
+        padding: 110px 0px;
+    }
+    .service_text {
+        padding-top: 45px;
+    }
+    .project-bottom a {
+        width: 100%;
+        text-align: center;
+        display: inline-block;
+    }
+    .team_arrow_left {
+        top: 79%;
+        left: 12%;
+    }
+    
+    .team_arrow_right {
+        top: 79%;
+        right: 11%;
+    }
+    .contact-btn {
+        margin-bottom: 35px;
+    }
+    .contact-left h3,
+    .contact-right h3 {
+        text-align: center;
+    }
+    .footer_bottom_right p {
+        margin-top: 15px;
+    }
+}
+
+
+
+
+/* Large devices (desktops, 992px and up)*/
+@media(min-width:992px) and (max-width:1199.98px){
+    
+}
+
+
+
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media(min-width: 1200px){
+    
+    
+}
